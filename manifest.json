@@ -1,0 +1,10 @@
+{
+  "id": "mish-calendar",
+  "name": "mish.calendar",
+  "version": "1.0.2",
+  "minAppVersion": "1.15.0",
+  "description": "A powerline calendar of notes by their created/date properties, with daily counts and a browsable note list.",
+  "author": "mishti",
+  "authorUrl": "https://github.com/mishtiiikrishnaa",
+  "isDesktopOnly": true
+}
